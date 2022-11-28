@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>UPDATE_LIST_QUERY_AND_TITLE1</event_name>
+        <interfaces/>
+        <label>Update list query and title1</label>
+        <props>[{"name":"heListQuery","fieldType":"string","label":"List query","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"heListTitle","fieldType":"string","label":"List title","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "List query",
+  "comment" : ""
+}, {
+  "message" : "List title",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 11:35:38</sys_created_on>
+        <sys_id>20798333475311106a1ff8b7536d43d3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Update list query and title1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_20798333475311106a1ff8b7536d43d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 11:41:31</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=20798333475311106a1ff8b7536d43d3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c5cfd1e9dbc353c04c1ff70fbf961927</instance_id>
+        <instance_name>dev63261</instance_name>
+        <name>sys_ux_event_20798333475311106a1ff8b7536d43d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>UPDATE_LIST_QUERY_AND_TITLE1</event_name><interfaces/><label>Update list query and title1</label><props>[{"name":"heListQuery","fieldType":"string","label":"List query","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"heListTitle","fieldType":"string","label":"List title","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "List query",
+  "comment" : ""
+}, {
+  "message" : "List title",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-28 11:35:38</sys_created_on><sys_id>20798333475311106a1ff8b7536d43d3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Update list query and title1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_20798333475311106a1ff8b7536d43d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-28 11:41:31</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=20798333475311106a1ff8b7536d43d3"/></record_update>]]></payload>
+        <payload_hash>-2146308360</payload_hash>
+        <record_name>Update list query and title1</record_name>
+        <reverted_from/>
+        <source>339de1da471311106a1ff8b7536d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 11:41:32</sys_created_on>
+        <sys_id>baca0ff3475311106a1ff8b7536d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184be0ad5e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 11:41:32</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>b2ca0ff32c531110ead6c971aae640cd</update_guid>
+        <update_guid_history>b2ca0ff32c531110ead6c971aae640cd:-2146308360,647983333e531110736b5365c59fc8d4:-539645675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 11:44:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>5212d6d6151c40c080ceecc5a3331100</sys_id>
+        <sys_metadata>20798333475311106a1ff8b7536d43d3</sys_metadata>
+        <sys_name>Update list query and title1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_20798333475311106a1ff8b7536d43d3</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_20798333475311106a1ff8b7536d43d3">baca0ff3475311106a1ff8b7536d43cd</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
